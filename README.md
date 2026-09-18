@@ -17,6 +17,36 @@
 1. **给 AI 用**——写公文、讲话稿、调研报告、述职报告、汇报发言、随笔杂文、自媒体文章，或修改润色文稿时，按本 skill 的方法论干活
 2. **给自己用**——按讲次或主题快速检索书中观点与方法
 
+## 安装
+
+**方式一 · Agent Skills 标准（推荐）**
+
+```bash
+npx skills add yxdwind/how-to-write -g
+```
+
+**方式二 · 安装脚本（自动探测 Claude Code / OpenClaw / Codex / Cursor / Cline 等已装目录）**
+
+```powershell
+# Windows PowerShell
+irm https://raw.githubusercontent.com/yxdwind/how-to-write/main/install.ps1 | iex
+```
+
+```bash
+# macOS / Linux
+curl -fsSL https://raw.githubusercontent.com/yxdwind/how-to-write/main/install.sh | bash
+```
+
+**方式三 · 手动**
+
+```bash
+git clone https://github.com/yxdwind/how-to-write.git
+# 把仓库目录（含 SKILL.md）复制到你的 AI 技能目录，
+# 如 ~/.agents/skills/how-to-write 或 ~/.claude/skills/how-to-write
+```
+
+更新已装的 skill：`npx skills update how-to-write`，或重跑安装脚本（加 -Force/--force 覆盖）。
+
 ## 使用案例
 
 一句话调用示例（完整实战见 [examples/](examples/) 目录）：
