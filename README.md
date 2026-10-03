@@ -100,13 +100,18 @@ how-to-write/
 
 由 OpenClaw book-to-skill 流水线生成：213 页扫描版 PDF → OCR 全文提取（AutoClaw OCR）→ 结构分析 → 逐章提炼 → 安全扫描。提炼遵循"提取结构，不抄原文"原则，框架命名保留作者原话。
 
-## 机关工作实务四部曲
+## 相关技能
 
-- [how-to-run-meetings](https://github.com/yxdwind/how-to-run-meetings) —— 《怎样开会》（任仲然）
-- [how-to-research](https://github.com/yxdwind/how-to-research) —— 《怎样调研》（任仲然）
-- how-to-write（本仓库）—— 《怎样写作》（任仲然）
-- [smart-notes](https://github.com/yxdwind/smart-notes) —— 《卡片笔记写作法》（申克·阿伦斯）
+**机关工作实务丛书**（任仲然）三部曲：
+
+- [how-to-run-meetings](https://github.com/yxdwind/how-to-run-meetings) —— 《怎样开会》
+- [how-to-research](https://github.com/yxdwind/how-to-research) —— 《怎样调研》
+- how-to-write（本仓库） —— 《怎样写作》
+
+延伸阅读：
+
+- [smart-notes](https://github.com/yxdwind/smart-notes) —— 《卡片笔记写作法》（申克·阿伦斯）提炼的卡片笔记方法论技能
 
 ## 版权说明
 
-本书版权归原作者、译者及出版社（党建读物出版社）所有。本仓库仅包含对书中方法论的提炼与转述（合理使用），不包含原文文本。
+《怎样写作》版权归作者及出版社（党建读物出版社）所有。本仓库仅包含对书中方法论的提炼与转述（合理使用）：不含成段原文，仅保留框架命名与短句引述。仓库自身内容（提炼、组织、示例、代码）以 [MIT 许可](LICENSE) 发布。
