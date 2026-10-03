@@ -4,7 +4,7 @@
 
 ## 这是什么
 
-一个 OpenClaw / Claude Code / Copilot CLI / Amp 兼容的 skill 目录，把全书十二讲的写作方法论拆解为：
+一个符合 Agent Skills 标准、跨工具兼容的 skill 目录（Claude Code / OpenClaw / Codex / Cursor / Cline / CodeBuddy / ZCode 等；安装脚本自动探测，其余工具手动复制 SKILL.md 目录即可）。把全书十二讲的写作方法论拆解为：
 
 - **命名框架与原则**——保留作者原话表述
 - **可执行的操作步骤**——每讲的方法都写成"何时用 / 怎么做"
@@ -81,7 +81,7 @@ how-to-write/
 ├── examples/             # 六个完整实战案例（讲话稿/调研报告/述职/汇报/修改/自媒体）
 ├── glossary.md           # 全书术语表
 ├── patterns.md           # 方法与模式全集
-├── cheatsheet.md         # 决策速查表（最实用的一层）
+├── cheatsheet.md         # 决策速查表（当…就…判断规则+阈值+危险信号）
 ├── overview.html         # 可视化总览页
 └── README.md
 ```
