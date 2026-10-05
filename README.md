@@ -1,5 +1,7 @@
 # 怎样写作 (how-to-write)
 
+![Release](https://img.shields.io/github/v/release/yxdwind/how-to-write) ![License](https://img.shields.io/github/license/yxdwind/how-to-write) ![Agent Skills](https://img.shields.io/badge/Agent-Skills-blue)
+
 > 从《怎样写作》（任仲然著，党建读物出版社，"机关工作实务丛书"第三本）提炼的 Agent 技能库——不是书的摘要，而是一套可执行的写作方法论工具箱。
 
 ## 这是什么
@@ -45,7 +47,7 @@ git clone https://github.com/yxdwind/how-to-write.git
 # 如 ~/.agents/skills/how-to-write 或 ~/.claude/skills/how-to-write
 ```
 
-更新已装的 skill：`npx skills update how-to-write`，或重跑安装脚本（加 -Force/--force 覆盖）。
+更新已装的 skill：`npx skills update how-to-write`，或重跑安装脚本（加 -Force/--force 覆盖）。固定版本下载见 [Releases](https://github.com/yxdwind/how-to-write/releases)。
 
 ## 使用案例
 
