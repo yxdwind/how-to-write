@@ -13,6 +13,7 @@
 - **反面模式**——作者反复警示的错误做法及原因
 - **实例拆解**——书中经典案例的压缩重述
 - **决策速查表**——把作者的判断逻辑浓缩成一眼可查的规则
+- **强制写作工序**——五步工序（问诊→送审→备料→成稿→自检）+ 范文拆解卡 + 交付前自检筛 + 基准评测
 
 双用途设计：
 
@@ -66,7 +67,8 @@ git clone https://github.com/yxdwind/how-to-write.git
 
 ```
 how-to-write/
-├── SKILL.md              # 核心框架 + 讲次索引 + 主题索引（入口文件）
+├── SKILL.md              # 核心框架 + 强制工序入口 + 讲次索引 + 主题索引（入口文件）
+├── workflow.md           # 强制写作工序：五步走（问诊→送审→备料→成稿→自检）执行细则
 ├── chapters/             # 十二讲逐章拆解（按需加载）
 │   ├── ch01-writing-is-not-hard.md          # 第一讲 写作其实并不难
 │   ├── ch02-thinking-logic-patterns.md      # 第二讲 思维 逻辑 规律
@@ -80,6 +82,13 @@ how-to-write/
 │   ├── ch10-briefing-speech-writing.md      # 第十讲 汇报稿和发言稿的写法
 │   ├── ch11-essay-column-wechat-writing.md  # 第十一讲 随笔、杂文及自媒体写作
 │   └── ch12-revision-experience.md          # 第十二讲 修改文稿文章经验谈
+├── models/               # 范文拆解卡（起草前读）：名篇骨架+文风+合成示范稿
+│   ├── speech-leadership.md                 # 领导讲话稿（ch07 实例）
+│   ├── research-report.md                   # 调研报告（ch08 实例）
+│   ├── wechat-article.md                    # 自媒体/公众号（ch11 实例）
+│   └── local/                               # 本地范文（.gitignore，不入仓库）
+├── rubrics/              # 交付前自检筛：通用筛 + 讲话稿/调研/自媒体三张文体筛
+├── evals/                # 基准评测：任务简报 + 评分表 + 跑分记录（改 skill 后跑回归）
 ├── examples/             # 六个完整实战案例（讲话稿/调研报告/述职/汇报/修改/自媒体）
 ├── glossary.md           # 全书术语表
 ├── patterns.md           # 方法与模式全集
