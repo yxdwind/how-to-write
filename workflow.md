@@ -56,11 +56,11 @@
 |------|----|----|----|
 | 领导讲话稿 | ch07 | models/speech-leadership.md | rubrics/speech.md |
 | 调研报告 | ch08 | models/research-report.md | rubrics/research.md |
-| 公文（决议/意见/通知/报告/纪要） | ch06 | — | rubrics/general.md（文体筛二期补） |
-| 述职报告 | ch09 | — | rubrics/speech.md 通用项 + rubrics/general.md（文体筛二期补） |
-| 汇报稿/发言稿 | ch10 | — | rubrics/speech.md 通用项 + rubrics/general.md（文体筛二期补） |
-| 随笔/杂文 | ch11 | — | rubrics/essay-selfmedia.md 通用项 + rubrics/general.md（文体筛二期补） |
-| 自媒体文章 | ch11 | models/wechat-article.md | rubrics/essay-selfmedia.md |
+| 公文（决议/意见/通知/报告/纪要） | ch06 | models/official-document.md | rubrics/official.md |
+| 述职报告 | ch09 | models/duty-report.md | rubrics/speech.md（述职节） |
+| 汇报稿/发言稿/对照检查 | ch10 | models/briefing-speech.md | rubrics/speech.md（汇报发言节） |
+| 随笔/杂文 | ch11 | models/essay.md | rubrics/essay-selfmedia.md（随笔节） |
+| 自媒体文章 | ch11 | models/wechat-article.md | rubrics/essay-selfmedia.md（自媒体节） |
 
 写作中执行原书的**硬规则**：朴实语言排除法（ch04）；稿中有数但数据只准来自第③步盘点结果；结构先定纵横（ch04）；自媒体守住"短快真实新"（ch11）。
 

@@ -86,8 +86,12 @@ how-to-write/
 │   ├── speech-leadership.md                 # 领导讲话稿（ch07 实例）
 │   ├── research-report.md                   # 调研报告（ch08 实例）
 │   ├── wechat-article.md                    # 自媒体/公众号（ch11 实例）
+│   ├── official-document.md                 # 规范性公文（ch06 实例）
+│   ├── duty-report.md                       # 述职报告（ch09 实例）
+│   ├── briefing-speech.md                   # 汇报稿/发言稿（ch10 实例）
+│   └── essay.md                             # 随笔/杂文（ch11 实例）
 │   └── local/                               # 本地范文（.gitignore，不入仓库）
-├── rubrics/              # 交付前自检筛：通用筛 + 讲话稿/调研/自媒体三张文体筛
+├── rubrics/              # 交付前自检筛：通用筛 + 公文/讲话/调研/随笔自媒体四张文体筛
 ├── evals/                # 基准评测：任务简报 + 评分表 + 跑分记录（改 skill 后跑回归）
 ├── examples/             # 六个完整实战案例（讲话稿/调研报告/述职/汇报/修改/自媒体）
 ├── glossary.md           # 全书术语表

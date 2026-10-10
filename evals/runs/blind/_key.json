@@ -1,0 +1,14 @@
+{
+ "brief-1": {
+  "甲": "baseline",
+  "乙": "skill"
+ },
+ "brief-2": {
+  "甲": "skill",
+  "丙": "baseline"
+ },
+ "brief-3": {
+  "乙": "skill",
+  "丙": "baseline"
+ }
+}
