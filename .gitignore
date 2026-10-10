@@ -1,3 +1,7 @@
 # 本地范文与内部材料（不入仓库）
 models/local/*
 !models/local/.gitkeep
+
+# 运行时产物
+.zwork/
+_tmp*.py
