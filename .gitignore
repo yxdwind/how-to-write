@@ -1,7 +1,7 @@
-# 本地范文与内部材料（不入仓库）
+﻿# 本地范文与内部材料（不入仓库）；templates 是填空模板，保留入库
 models/local/*
+!models/local/templates
 !models/local/.gitkeep
-
 # 运行时产物
 .zwork/
 _tmp*.py
