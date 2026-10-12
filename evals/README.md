@@ -20,7 +20,7 @@
 evals/
 ├── README.md      # 本文件
 ├── scoring.md     # 评分表（维度+分值+判分规则）
-├── briefs/        # 任务简报（输入，不随版本改）
+├── briefs/        # 任务简报 ×7，覆盖全部八文体（随笔/杂文共用 brief-7）
 └── runs.log.md    # 每轮跑分记录
 ```
 
