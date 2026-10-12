@@ -16,7 +16,7 @@
 
 ## local/ —— 本地范文（不入仓库）
 
-`models/local/` 放你自己积累的真实范文，已被 .gitignore 排除。**[models/local/templates/](local/templates/README.md) 备有八文体填空模板**，填卡即成正式拆解卡。
+`models/local/` 放你自己积累的真实范文（local 根目录内容不入仓库；`templates/` 填空模板随仓库分发）。**[models/local/templates/](local/templates/README.md) 备有八文体填空模板**，填卡即成正式拆解卡。
 
 1. **做法**：复制模板（如 `templates/speech.md`）→ 重命名为范文标识（如 `speech-王局年度会讲话.md`）→ 粘原文全文 + 填空 → 移到 `local/` 根目录即生效。
 2. **每张卡的拆解最少含**：骨架（块结构）、文风（3 个特征）、数据位/金句位、可复用点与禁忌。
